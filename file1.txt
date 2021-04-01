@@ -1,1 +1,2 @@
 Moj strava kod ide u ovaj fajl
+Dodadmo neki tekst iz grane "funk1"
